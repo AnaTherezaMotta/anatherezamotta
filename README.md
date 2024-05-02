@@ -2,9 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando com suporte técnico ...
-- 🌱 Atualmente estou aprendendo Cloud computing, Python, Java ...
-- 😄 Pronomes: Ela/dela...
+- 🔭 Atualmente estou trabalhando com suporte técnico.
+- 🌱 Atualmente estou aprendendo Cloud computing, Python e Java.
+- 😄 Pronomes: Ela/dela.
 
 
 ## Ferramentas e Tecnologias
