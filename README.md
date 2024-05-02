@@ -1,6 +1,5 @@
-#Olá, meu nome é Ana Thereza Motta! 
+# Olá, meu nome é Ana Thereza! 
 ## Bem vindo ao meu perfil GitHub 👋
-
 
 - 🔭 Atualmente estou trabalhando com suporte técnico.
 - 🌱 Atualmente estou aprendendo Cloud computing, Python e Java.
